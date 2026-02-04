@@ -1,5 +1,10 @@
 function Home() {
-  return <h1>Jennifer,Eu te amo. Se você me ama, me manda um beijo😘</h1>;
+  return (
+    <h1>
+      Grandes realizações são possíveis quando se dá importância aos pequenos
+      começos.
+    </h1>
+  );
 }
 
 export default Home;
